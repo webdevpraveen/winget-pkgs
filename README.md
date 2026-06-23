@@ -1,36 +1,3 @@
-<h2>🌍 Open Source Contribution</h2>
-<div style="border:1px solid #ddd; padding:15px; border-radius:8px; margin:10px 0; background:#f9f9f9;">
-  <h3>Microsoft Winget Packages</h3>
-  <p>
-    Pull Request: 
-    <a href="https://github.com/microsoft/winget-pkgs/pull/387024" target="_blank">
-      Add VideoLAN.VLC version 3.0.20 (#387024)
-    </a>
-  </p>
-  <p>
-    Added VLC (VideoLAN.VLC) version 3.0.20 to Windows Package Manager Community Repository.  
-    <br><em>Status: Closed (validation issue, but valuable contribution)</em>
-  </p>
-</div>
-
-<div style="border:1px solid #ddd; padding:15px; border-radius:8px; margin:10px 0; background:#f9f9f9;">
-  <h3>Microsoft Winget Packages</h3>
-  <p>
-    Pull Request: 
-    <a href="https://github.com/microsoft/winget-pkgs/pull/387117" target="_blank">
-      Add 7zip.7zip version 23.01 (#387117)
-    </a>
-  </p>
-  <p>
-    Added 7-Zip (7zip) version 23.01 to Windows Package Manager.  
-    <br><em>Status: Open (awaiting review)</em>
-  </p>
-</div>
-
-
-
----
-
 # Windows Package Manager Community Repository
 
 [![Gitter](https://img.shields.io/gitter/room/Microsoft/winget-pkgs)](https://gitter.im/Microsoft/winget-pkgs)
